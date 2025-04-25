@@ -1,53 +1,95 @@
-# Samartha Bhatt
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Samartha+Bhatt+🚀;Cybersecurity+Enthusiast+%7C+Blockchain+Developer+%7C+Drone+Nerd&center=true&width=500&height=40" />
+</p>
 
-## About Me
-Hello! I'm **Samartha Bhatt**, a passionate B.Tech Computer Science student at PSIT Kanpur. I have a strong interest in cybersecurity, software development, and emerging technologies. I believe in leveraging technology to solve real-world problems and enhance learning experiences.
+<h1 align="center">Hi 👋, I'm Samartha Bhatt</h1>
+<p align="center">
+  <strong>🚀 B.Tech CSE | PSIT Kanpur | Cybersecurity | Blockchain | Drone Tech</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Samaruta-batto"><img src="https://img.shields.io/github/followers/Samaruta-batto?label=GitHub&style=social" /></a>
+  <a href="https://www.linkedin.com/in/samartha-bhatt/"><img src="https://img.shields.io/badge/LinkedIn-Samartha%20Bhatt-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:2k23.cscys2312561@gmail.com"><img src="https://img.shields.io/badge/Gmail-2k23.cscys2312561%40gmail.com-red?logo=gmail" /></a>
+</p>
 
 ---
 
-## Education
-- **Program**: B.Tech in Computer Science
-- **Institution**: PSIT Kanpur
-- **Year**: 2nd Year
+## 👨‍💻 About Me
+Hello! I'm **Samartha Bhatt**, a 2nd-year B.Tech Computer Science student at PSIT Kanpur.  
+I'm passionate about **cybersecurity**, **blockchain**, **software development**, and building solutions that solve real-world problems—be it in the cloud, on-chain, or up in the air via drones!
 
 ---
 
-## Skills
-- **Programming Languages**: Python, C, C++
-- **Cybersecurity Tools**: Kali Linux, Nmap, Wireshark
+## 🎓 Education
+- **Program**: B.Tech in Computer Science  
+- **Institution**: PSIT Kanpur  
+- **Year**: 2nd Year  
+
+---
+
+## 🛠️ Skills
+
+- **Languages**: Python, C, C++
 - **Web Development**: HTML, CSS, JavaScript
-- **Database Management**: SQLite, MySQL
+- **Cybersecurity Tools**: Kali Linux, Nmap, Wireshark
+- **Databases**: SQLite, MySQL
+- **Blockchain & Web3**: Solidity, Hardhat, Polygon, Chainlink, Gasless Transaction Forwarders
+- **Tools/Tech**: Git, VS Code, Postman, Drone Simulation (Mission Planner), Arduino
 
 ---
 
-## Projects
-### 1. Network Mapping Tool
-- Developed a Python-based network mapping application to scan single or multiple IP addresses.
-- Integrated features for open port detection and basic vulnerability checks.
-- Utilized Nmap for efficient scanning and organized results in text files.
+## 💻 Projects
 
-### 2. Login System with SQL Integration
-- Built a secure login and signup system using Python and SQLite.
-- Implemented a user-friendly GUI with `tkinter`.
-- Focused on encryption for password security.
+### 🔐 SEMPER-fi: Fake Profile Detection System
+- Flags fake/suspicious profiles using behavioral heuristics and scoring logic.
+- Enhances digital safety on social platforms.
 
----
+### 🚁 NIDAR: Drone-based Disaster Management System
+- Dual-drone system with survivor detection, geofencing, and delivery modules.
+- Designed for search and rescue missions in disaster-prone zones.
 
-## Interests
-- **Cybersecurity**: Exploring network vulnerabilities and enhancing system defenses.
-- **Software Development**: Building user-centric applications with clean and efficient code.
-- **Gaming**: Engaging in strategic and collaborative games as a leisure activity.
+### 🌉 CrCo Bridge (Cross-Chain Asset Transfer)
+- Developed a bridge for seamless asset transfer across chains.
+- Integrated gasless forwarding and contract-level authentication.
 
----
+### 🌐 Network Mapping Tool
+- Scans IPs, detects open ports, and identifies vulnerabilities.
+- Built with Nmap, Python, and file logging for analysis.
 
-## Achievements
-- Successfully presented a project on Network Mapping Tool at the college tech expo.
-- Collaborated with a team to develop educational tools for cybersecurity.
-- Recognized for academic excellence and teamwork at PSIT Kanpur.
+### 🔐 Secure Login System
+- Python + SQLite-based GUI login system.
+- Encrypted password storage and validation using `tkinter`.
 
 ---
 
-## Contact
-- **Email**: 2k23.cscys2312561@gmail.com
-- **GitHub**: [Samartha Bhatt](https://github.com/Samaruta-batto)
-- **LinkedIn**: [Samartha Bhatt](https://www.linkedin.com/in/samartha-bhatt/)
+## ❤️ Interests
+- **Cybersecurity**: Offensive & defensive security practices.
+- **Blockchain Tech**: Smart contracts, cross-chain bridges, Web3 tools.
+- **Drone Technology**: Autonomous navigation, fail-safe systems, hardware interfacing.
+- **Software Development**: Scalable, secure, and user-focused applications.
+- **Gaming**: Strategy-based, multiplayer, and competitive games.
+
+---
+
+## 🏆 Achievements
+- 🎯 **Finalist** – HackIITK 2k25 by C3iHub
+- 🏅 **PSIT Scholar of the Year** – Finalist
+- 💡 Presented **Network Mapping Tool** at TechExpo
+- 🤝 Collaborated on cybersecurity awareness tools
+- 🥇 Recognized for teamwork, leadership, and innovation at PSIT
+
+---
+
+## 📬 Contact Me
+- **Email**: 2k23.cscys2312561@gmail.com  
+- **GitHub**: [Samaruta-batto](https://github.com/Samaruta-batto)  
+- **LinkedIn**: [Samartha Bhatt](https://www.linkedin.com/in/samartha-bhatt/)  
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sqlite,mysql,linux,git,solidity,ethereum,hardhat" />
+</p>
