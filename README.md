@@ -41,21 +41,26 @@ I'm passionate about **cybersecurity**, **blockchain**, **software development**
 
 ## 💻 Projects
 
-### 🔐 SEMPER-fi: Fake Profile Detection System
+### 🔐 SEMPER-fi: Fake Profile Detection System *(In Progress)*
 - Flags fake/suspicious profiles using behavioral heuristics and scoring logic.
 - Enhances digital safety on social platforms.
 
-### 🚁 NIDAR: Drone-based Disaster Management System
+### 🚁 NIDAR: Drone-based Disaster Management System *(In Progress)*
 - Dual-drone system with survivor detection, geofencing, and delivery modules.
 - Designed for search and rescue missions in disaster-prone zones.
 
-### 🌉 CrCo Bridge (Cross-Chain Asset Transfer)
+### 🌉 CrCo Bridge (Cross-Chain Asset Transfer) *(In Progress)*
 - Developed a bridge for seamless asset transfer across chains.
 - Integrated gasless forwarding and contract-level authentication.
 
 ### 🌐 Network Mapping Tool
 - Scans IPs, detects open ports, and identifies vulnerabilities.
 - Built with Nmap, Python, and file logging for analysis.
+
+### 🔒 VPN Detector with IP Grabber *(In Progress)*
+- Aims to detect VPN/proxy usage in real-time to counter cybercriminal activity.
+- Uses IP grabbing and is being extended to incorporate proxy detection via external API and packet inspection.
+- Designed for forensic support and secure environments.
 
 ### 🔐 Secure Login System
 - Python + SQLite-based GUI login system.
@@ -64,7 +69,7 @@ I'm passionate about **cybersecurity**, **blockchain**, **software development**
 ---
 
 ## ❤️ Interests
-- **Cybersecurity**: Offensive & defensive security practices.
+- **Cybersecurity**: Offensive & defensive security, VPN detection, system hardening.
 - **Blockchain Tech**: Smart contracts, cross-chain bridges, Web3 tools.
 - **Drone Technology**: Autonomous navigation, fail-safe systems, hardware interfacing.
 - **Software Development**: Scalable, secure, and user-focused applications.
