@@ -16,26 +16,25 @@
 ---
 
 ## 👨‍💻 About Me
-Hello! I'm **Samartha Bhatt**, a 2nd-year B.Tech Computer Science student at PSIT Kanpur.  
+Hello! I'm **Samartha Bhatt**, a B.Tech Computer Science student at PSIT Kanpur.  
 I'm passionate about **cybersecurity**, **blockchain**, **software development**, and building solutions that solve real-world problems—be it in the cloud, on-chain, or up in the air via drones!
 
 ---
 
 ## 🎓 Education
-- **Program**: B.Tech in Computer Science  
-- **Institution**: PSIT Kanpur  
-- **Year**: 2nd Year  
+- **Program**: B.Tech in Computer Science - Cyber Security
+- **Institution**: PSIT Kanpur   
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages**: Python, C, C++
+- **Languages**: Python, C, Java
 - **Web Development**: HTML, CSS, JavaScript
 - **Cybersecurity Tools**: Kali Linux, Nmap, Wireshark
 - **Databases**: SQLite, MySQL
 - **Blockchain & Web3**: Solidity, Hardhat, Polygon, Chainlink, Gasless Transaction Forwarders
-- **Tools/Tech**: Git, VS Code, Postman, Drone Simulation (Mission Planner), Arduino
+- **Tools/Tech**: Git, VS Code, Drone Simulation (Mission Planner), Arduino
 
 ---
 
@@ -96,5 +95,5 @@ I'm passionate about **cybersecurity**, **blockchain**, **software development**
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,sqlite,mysql,linux,git,solidity,ethereum,hardhat" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,sqlite,mysql,linux,git,solidity,ethereum,hardhat" />
 </p>
