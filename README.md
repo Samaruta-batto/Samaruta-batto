@@ -56,7 +56,7 @@ I'm passionate about **cybersecurity**, **blockchain**, **software development**
 - Scans IPs, detects open ports, and identifies vulnerabilities.
 - Built with Nmap, Python, and file logging for analysis.
 
-### 🔒 VPN Detector with IP Grabber *(In Progress)*
+### 🔒 VPN Detector with IP Grabber 
 - Aims to detect VPN/proxy usage in real-time to counter cybercriminal activity.
 - Uses IP grabbing and is being extended to incorporate proxy detection via external API and packet inspection.
 - Designed for forensic support and secure environments.
