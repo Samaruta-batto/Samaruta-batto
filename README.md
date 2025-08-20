@@ -34,7 +34,7 @@ I'm passionate about **cybersecurity**, **blockchain**, **software development**
 - **Cybersecurity Tools**: Kali Linux, Nmap, Wireshark
 - **Databases**: SQLite, MySQL
 - **Blockchain & Web3**: Solidity, Hardhat, Polygon, Chainlink, Gasless Transaction Forwarders
-- **Tools/Tech**: Git, VS Code, Drone Simulation (Mission Planner), Arduino
+- **Tools/Tech**: Git, VS Code, Drone Simulation (Mission Planner & Telecommunication), Arduino
 
 ---
 
