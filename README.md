@@ -48,7 +48,7 @@ I'm passionate about **cybersecurity**, **blockchain**, **software development**
 - Dual-drone system with survivor detection, geofencing, and delivery modules.
 - Designed for search and rescue missions in disaster-prone zones.
 
-### 🌉 CrCo Bridge (Cross-Chain Asset Transfer) *(In Progress)*
+### 🌉 CrCo Bridge (Cross-Chain Asset Transfer) 
 - Developed a bridge for seamless asset transfer across chains.
 - Integrated gasless forwarding and contract-level authentication.
 
