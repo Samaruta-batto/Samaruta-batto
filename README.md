@@ -70,7 +70,7 @@
 
 ## 🐍 A Little Fun: My GitHub Activity Snake
 <p align="center">
-    <img src="https://raw.githubusercontent.com/Samaruta-batto/Samaruta-batto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/Samaruta-batto/Samaruta-batto/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Samartha's Dark Themed GitHub Contribution Snake" style="max-width: 90%;">
 </p>
 
 ---
