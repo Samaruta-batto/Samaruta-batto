@@ -5,7 +5,7 @@
 <h1 align="center">Samartha Bhatt</h1>
 <p align="center">
   <strong>🛡️ B.Tech CSE (Cyber Security) | PSIT Kanpur</strong><br/>
-  <i>Cybersecurity Enthusiast • Blockchain Developer • Drone Nerd</i>
+  <i>Cybersecurity Enthusiast • Blockchain Developer • Drone Nerd</i> 
 </p>
 
 ---
