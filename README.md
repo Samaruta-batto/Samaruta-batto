@@ -55,7 +55,7 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Samaruta-batto/Samaruta-batto/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Samaruta-batto/Samaruta-batto/output/snake.svg" alt="snake animation"/>
 </p>
 
 ---
