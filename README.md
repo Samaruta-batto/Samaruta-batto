@@ -26,7 +26,6 @@
   <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,solidity" />
   
   <h3>Blockchain & Web3 🌐</h3>
-  <img src="https://skillicons.dev/icons?i=ethereum,hardhat&theme=dark" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethers.js-69665B?style=for-the-badge&logo=Ethers.js&logoColor=white" />
   
