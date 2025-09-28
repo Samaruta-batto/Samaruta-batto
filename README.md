@@ -1,70 +1,84 @@
-<!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Samartha+Bhatt+🚀;Cybersecurity+%7C+Blockchain+%7C+Drone+Tech;Building+Secure+and+Scalable+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Samartha+Bhatt+👋;Crafting+Secure+&+Scalable+Solutions;Cybersecurity+%7C+Blockchain+%7C+Drone+Tech" alt="Typing SVG" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Samartha Bhatt</h1>
+<h1 align="center">Samartha Bhatt</h1>
 <p align="center">
-  <strong>🚀 B.Tech CSE (Cyber Security) | PSIT Kanpur</strong><br/>
-  <i>Cybersecurity Enthusiast • Blockchain Developer • Drone Nerd</i>
-</p>
-
----
-
-<!-- Socials -->
-<p align="center">
-  <a href="https://github.com/Samaruta-batto"><img src="https://img.shields.io/github/followers/Samaruta-batto?style=for-the-badge&logo=github&color=171515"></a>
-  <a href="https://www.linkedin.com/in/samartha-bhatt/"><img src="https://img.shields.io/badge/LinkedIn-Samartha%20Bhatt-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:2k23.cscys2312561@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <strong>🛡️ B.Tech CSE (Cyber Security) | PSIT Kanpur</strong><br/>
+  <i>Cybersecurity Enthusiast • Blockchain Developer • Drone Nerd</i>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🔗 Connect with Me
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,sqlite,mysql,linux,git,solidity,ethereum,hardhat,arduino,vscode" />
+  <a href="https://github.com/Samaruta-batto" target="_blank"><img src="https://img.shields.io/github/followers/Samaruta-batto?style=social&logo=github&label=Follow"></a>
+  <a href="https://www.linkedin.com/in/samartha-bhatt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:2k23.cscys2312561@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ My Tech Toolbox
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Samaruta-batto&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Samaruta-batto&theme=tokyonight&hide_border=true" height="165"/>
+  <h3>Languages & Core 💻</h3>
+  <img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,solidity" />
+  
+  <h3>Blockchain & Web3 🌐</h3>
+  <img src="https://skillicons.dev/icons?i=ethereum,hardhat&theme=dark" />
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ethers.js-69665B?style=for-the-badge&logo=Ethers.js&logoColor=white" />
+  
+  <h3>Databases & Networking 🗄️</h3>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+  <img src="https://img.shields.io/badge/Cisco%20Packet%20Tracer-0C1014?style=for-the-badge&logo=cisco&logoColor=009594" />
+  
+  <h3>Tools & OS ⚙️</h3>
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,arduino" />
 </p>
 
+---
+
+## 📈 GitHub Metrics & Activity
+
+### **Stats & Streak**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samaruta-batto&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Samaruta-batto&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Samartha's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Samaruta-batto&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" height="180"/>
+</p>
+
+### **Top Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samaruta-batto&layout=compact&theme=gotham&hide_border=true&langs_count=6" height="170"/>
 </p>
 
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samaruta-batto&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Samaruta-batto&theme=onedark&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 📈 Activity Graph
+## 📊 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samaruta-batto&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samaruta-batto&theme=dracula&hide_border=true&area=true&line=539bf5&point=ffffff" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 A Little Fun: My GitHub Activity Snake
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Samaruta-batto/Samaruta-batto/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Samaruta-batto/Samaruta-batto/output/snake-light.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Samaruta-batto/Samaruta-batto/output/snake.svg" />
-  </picture>
+    <img src="https://raw.githubusercontent.com/Samaruta-batto/Samaruta-batto/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%;">
 </p>
 
 ---
 
-## 👀 Visitor Count
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samaruta-batto&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  ✨ Built with ❤️ | Happy Coding! 💻
+</p>
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Samaruta-batto&label=Profile%20Views%20👀&color=blueviolet&style=flat-square" />
 </p>
