@@ -5,7 +5,7 @@
 <h1 align="center">Samartha Bhatt</h1>
 <p align="center">
   <strong>🛡️ Cybersecurity Engineer & Web3 Security Researcher</strong><br/>
-  <i>Kernel Exploitation • AI Pipeline Security • Mobile Forensics • Blockchain Scalability</i> 
+  <i>Kernel Exploitation • AI Security • Mobile Forensics • Blockchain Scalability</i> 
 </p>
 
 ---
